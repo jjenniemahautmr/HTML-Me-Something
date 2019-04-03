@@ -1,0 +1,42 @@
+body {
+    background-color: lightsteelblue;
+}
+p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium
+}
+h1 {
+color: blueviolet;
+text-align: center;
+font-family: cursive;
+}
+
+h2 {color: black;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+main {
+text-align: center;
+}
+
+img{
+align-content: center
+}
+
+footer{
+text-align: right
+}
+
+div {
+  border: 1px wheat;
+  padding: 25px 50px;
+  background-color: wheat;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
